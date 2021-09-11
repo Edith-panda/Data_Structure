@@ -1,0 +1,6 @@
+Time complexity represents the number of times a statement is executed
+for two loop O(n*2)
+for one loop o(n)
+while(o(n))
+if else statements = constants
+nlogn constatnt time to ciut the size of the problem(power), binary search problem
